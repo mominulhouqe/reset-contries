@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+
+.product{
+  border: 3px solid purple;
+  border-radius: 15px;
+  margin: 10px;
+  background-color: aqua;
+
+}
+.product:hover{
+  background-color: beige;
+}
